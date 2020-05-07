@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "ESNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "outDir": "esm",
+    "declaration": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": ["DOM", "ES2015"]
+  }
+}
