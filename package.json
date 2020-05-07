@@ -1,6 +1,6 @@
 {
   "name": "rax-compact",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "cjs/index.js",
   "module": "esm/index.js",
