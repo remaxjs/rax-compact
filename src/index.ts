@@ -1,8 +1,6 @@
+import flattenChildren from './flattenChildren';
+
 export * as React from 'react';
-
-function flattenChildren() {
-
-}
 
 export const shared = {
   flattenChildren
