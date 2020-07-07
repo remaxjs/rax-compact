@@ -1,5 +1,4 @@
 import { createElement } from 'react';
-import { Modal } from 'remax/one';
 import flattenChildren from './flattenChildren';
 
 export {
@@ -37,7 +36,3 @@ export function render() {}
 export const shared = {
   flattenChildren
 };
-
-export function createPortal(element: any) {
-  return createElement(Modal, null, element);
-}
